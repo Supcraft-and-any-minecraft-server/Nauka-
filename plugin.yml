@@ -1,0 +1,5 @@
+name: Scriptclub_testplugin
+version: 1.0
+main: naukajava.Main
+description: This is a test plugin for java learning
+author: ScriptClub 
