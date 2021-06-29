@@ -20,6 +20,9 @@ public final class Diamond_OreBreakEvent extends Event{
 	}		
 	public Player getPlayer() {
 		return player;
+	}
+	public Entity getBlock() {
+		return player;
 	}	
 	
 	

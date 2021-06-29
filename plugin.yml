@@ -3,3 +3,7 @@ version: 1.0
 main: naukajava.Main
 description: This is a test plugin for java learning
 author: ScriptClub 
+
+commands: 
+  break:
+    aliases: niszczenie
